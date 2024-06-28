@@ -1,6 +1,6 @@
-# PharmaConnect
+# MediBook
 
-PharmaConnect provides:
+MediBook provides:
 * Unified Database System for both Medical Stores and Customers. 
 * Location based price comparison.​
 * Real time updates on stock availability.​
